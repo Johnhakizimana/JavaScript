@@ -3,7 +3,7 @@
 
 // Returning a character from a specified position(index) from string using CharAt()
 // Returning the  character  in the first position(index)  from a sting
-let myName = "Oscar";
+let myName = "John";
 console.log(myName.charAt(0));
 // Returning  the character  in the third position(index 2) from a string
 let yourName = "Mercy";
@@ -70,7 +70,7 @@ if (brName.endsWith("")) {
 
 // Example 10
 // Determing what a string contains using the .includes()
-let password = "Hazard Oscar";
+let password = "Hakiza john";
 console.log(password.includes(""));
 // simple function
 if (password.includes("")) {

@@ -7,4 +7,4 @@ console.log(typeof true);
 typeof null
 console.log(typeof null);
 typeof 'oscar'
-console.log(typeof 'oscar');
+console.log(typeof 'john');

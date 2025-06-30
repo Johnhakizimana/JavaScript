@@ -5,7 +5,7 @@ const chickPrice = 1650 // number
 let isApproved = false; // this is  boolean data type
 
 // Farmer information
-let farmerName = 'Oscar' // string
+let farmerName = 'John' // string
 let farmerAge = 20 // this is a number
 let inRegistered = true; // boolean
 
@@ -13,7 +13,7 @@ let inRegistered = true; // boolean
 let typeOfchick = "Broiler" // string
 
 
-typeof "Oscar"
+typeof "John"
 // console.log(typeof "Oscar")
 
 // Non primitive data types
@@ -26,7 +26,7 @@ let farmer = {name : 'Oscar' ,age : 20 ,isRegistered : true };
 console.log(farmer)
 console.log(chickType)
 // Array 2
-let farmerNames = ['Oscar','andrew','Ves']
+let farmerNames = ['John,'andrew','Ves']
 // Object 2
 let chickStock = {
     type : 'Layer',

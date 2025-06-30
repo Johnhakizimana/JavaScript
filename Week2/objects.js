@@ -1,6 +1,6 @@
 // dealing with objects to formulate methods
 let farmer = {
-     name: "Oscar",
+     name: "John",
      age : 30,
      numChicks : 20,
     greetFarmer : function(){

@@ -13,7 +13,7 @@ const head = document.querySelectorAll(".title");
 const head2 = document.getElementById("he-2");
 const head3 = document.getElementById("he-3");
 
-head[0].textContent = `Oscar is me`;
+head[0].textContent = `John is me`;
 head2.textContent = `This is me, the real me`;
 head3.style.color = "red";
 let subheading = document.createElement("h1");

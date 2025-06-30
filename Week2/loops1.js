@@ -30,7 +30,7 @@ for(y=1;x<= 50;x++){
 // while 
 while(true){
 let password = prompt("Enter your password: ")
-const correctPassword = "OSCAR"
+const correctPassword = "HAKIZA"
 
 if(correctPassword === password){
     alert("Password is correct")

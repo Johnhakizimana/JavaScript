@@ -2,7 +2,7 @@
 // Welcome to CES javascript class
 /* comments can make code readable,
 easy to reuse and informative */
-let thirdName = "Oscar" // This is a string
+let thirdName = "john" // This is a string
 let isRegistered = true; // this is a boolean
 let origin = undefined; // this is undefined
 let residence = null; // this is null
@@ -10,7 +10,7 @@ let secondName;
 let farmer;
 let gender;
 let village;
-let fourthName = "Luyimbazi";
+let fourthName = "Hakizimana";
 let place = "Nansana"
 let years = 20;
 let ninNumder = undefined;
